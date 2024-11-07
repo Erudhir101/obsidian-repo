@@ -2,7 +2,7 @@
 id: Ciclo PDCA
 aliases: []
 tags:
-  - engenharia de software
+  - engenharia
   - ferramentas
   - qualidade
 ---

@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Requisitos de software.md",
-                "mode": "source",
+                "file": "Leis/lei de acesso à informação(12.527-2011).md",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "lei de acesso à informação(12.527-2011)"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ad1a255020dd6fb7",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Requisitos de software.md",
+                "file": "engenharia de software/BPMN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for BPMN"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Requisitos de software.md",
+                "file": "engenharia de software/BPMN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from BPMN"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Requisitos de software.md"
-              }
+                "file": "engenharia de software/BPMN.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of BPMN"
             }
           }
         ]
@@ -148,6 +164,16 @@
   },
   "active": "e3be8725f11c69cb",
   "lastOpenFiles": [
+    "Leis/grau-tempo-sigiloso.png",
+    "Leis/lei de acesso à informação(12.527-2011).md",
+    "Leis/diretrizes-lai.png",
+    "Leis/gra.png",
+    "engenharia de software/BPMN.md",
+    "engenharia de software/BPMN2_0_Poster_PT-2_page-0001.jpg",
+    "Leis/Captura_de_tela_de_2024-11-05 17-09-05.png",
+    "Leis/Captura de tela de 2024-11-05 17-09-05.png",
+    "engenharia de software/Ciclo PDCA.md",
+    "engenharia de software/OKR.md",
     "4913",
     "asdf.md",
     "Requisitos de software.md",

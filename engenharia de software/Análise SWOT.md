@@ -2,7 +2,7 @@
 id: Análise SWOT
 aliases: []
 tags:
-  - engenharia de software
+  - engenharia
   - ferramentas
   - qualidade
 ---
